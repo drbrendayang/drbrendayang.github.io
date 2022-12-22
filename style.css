@@ -78,11 +78,8 @@ a:active {
 
 
 h2 {
-  font-family: liza-text, monospace;
+  font-family: liza-text;
   font-size: 5rem;
-  height: 1px;
-  width: 1px;
-  display:inline ;
 }
 
 .char {
