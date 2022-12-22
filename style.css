@@ -31,6 +31,15 @@ p.title { /* main text*/
 	line-height: 120%;
 }
 
+p.signoff { /* our names*/
+	font-family: liza-display-new, sans-serif;
+	font-style: normal;
+	color: #ec430e;
+	margin: 0;
+	font-size: 4rem;
+	line-height: 120%;
+}
+
 p.vertical { /* save the date text*/
 	font-family: lust-script, sans-serif;
 	font-style: normal;
@@ -80,6 +89,7 @@ a:active {
 h2 {
   font-family: liza-display-new;
   font-size: 4rem;
+  
 }
 
 .char {

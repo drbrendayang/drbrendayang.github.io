@@ -102,6 +102,15 @@ h2 {
   font-size: 4rem;
 }
 
+p.signoff { /* our names*/
+	font-family: liza-display-new, sans-serif;
+	font-style: normal;
+	color: #ec430e;
+	margin: 0;
+	font-size: 4rem;
+	line-height: 120%;
+}
+
 .char {
   // --i: calc(50% / var(--char-total));
   --offset: calc(var(--char-index) * 3rem);
