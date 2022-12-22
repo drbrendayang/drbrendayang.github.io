@@ -26,7 +26,7 @@ p.title { /* main text*/
 	font-style: normal;
 	color: #e2ccb4;
 	margin: 0;
-	font-size: 4rem;
+	font-size: 6rem;
 	text-transform: lowercase;
 	line-height: 120%;
 }
@@ -51,27 +51,6 @@ p.body {
 	padding-top: 10px;
 }
 
-p.logos {
-	font-family: hwt-catchwords, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	color: #000000;
-	margin: 0;
-	font-size: 11rem;
-	text-transform: lowercase;
-	line-height: 10%;
-}
-
-p.stars {
-	font-family: hwt-star-ornaments, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	color: #000000;
-	margin: 0;
-	font-size: 11rem;
-	text-transform: lowercase;
-	line-height: 100%;
-}
 
 /* unvisited link */
 a:link {
@@ -99,8 +78,8 @@ a:active {
 
 
 h2 {
-  font-family: jeanne-moderno, serif; Inconsolata, monospace;
-  font-size: 1.5rem;
+  font-family: liza-text, monospace;
+  font-size: 5rem;
   height: 1px;
   width: 1px;
   display:inline ;
@@ -142,12 +121,12 @@ path {
 	margin: auto;
 	width: 99%;
 	text-align: center;
-	padding-top: 200px;
+	padding-top: 10px;
 }
 
 #left{
 	margin: auto;
-	width: 60%;
+	width: 70%;
 	padding: 20px;
 	text-align: left;
 }
@@ -161,7 +140,7 @@ path {
 
 #right {
 	margin: auto;
-	width: 56%;
+	width: 60%;
 	padding: 0px;
 	text-align: right;
 }
